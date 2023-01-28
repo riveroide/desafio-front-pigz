@@ -1,19 +1,23 @@
 import "./App.css";
 import BusinessForm from "./components/BusinessForm";
+import Cards from "./components/Cards";
 import Header from "./components/Header";
 import PigzPigz from "./components/PigzPigz";
 
 function App() {
   return (
-    <div>
+    <div className="xl: w-[414px]">
       <div>
         <Header/>
       </div>
-      <div className="relative">
+      <div>
         <BusinessForm/>
       </div>
-      <div className="absolute">
+      <div>
       <PigzPigz/>
+      </div>
+      <div>
+        <Cards/>
       </div>
       
     </div>

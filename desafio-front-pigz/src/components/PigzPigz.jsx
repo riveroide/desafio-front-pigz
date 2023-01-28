@@ -3,7 +3,7 @@ import LogoRing from '../lib/Grupo 3535.svg'
 
 const PigzPigz = () => {
   return (
-    <div className='flex flex-col justify-center w-screen items-center' >
+    <div className='flex flex-col justify-center items-center' >
         <div className='-mt-16 w-full justify-center flex'>
             <img src={LogoRing} alt="/" className=''/>
         </div>
