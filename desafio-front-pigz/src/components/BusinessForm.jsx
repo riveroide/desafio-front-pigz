@@ -1,5 +1,5 @@
 import React from "react";
-import BurgerPic from "../lib/Grupo de máscara 2405.png";
+import BurgerPic from "../lib/burger_fix.png";
 import Form from "./Form";
 const BusinessForm = () => {
   return (
@@ -10,7 +10,7 @@ const BusinessForm = () => {
             Pigz: tudo que você precisa pra vender ainda mais!
           </p>
         </div>
-        <div className="flex relative justify-end left-[18%] bottom-12 bg-clip-content">
+        <div className="flex relative justify-end bottom-12 bg-clip-content">
           <img src={BurgerPic} alt="burgerpic"/>
         </div>
       </div>
@@ -20,7 +20,7 @@ const BusinessForm = () => {
           Marketplace e deixar sua loja prontinha para iniciar as vendas
         </p>
       </div>
-      <div className="rounded-3xl bg-white mx-4 mb-16">
+      <div className="rounded-3xl bg-white mx-4 mb-16 h-128">
         <Form/>
       </div>
     </div>
