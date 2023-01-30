@@ -4,7 +4,7 @@ const SubscriptionPrice = () => {
   return (
     <div className='flex flex-col items-center justify-center text-[#333333] font-poppins p-8 w-full gap-4 mt-8'>
         
-        <h2 className='text-center font-bold text-2xl w-[70%]'>
+        <h2 className='text-center font-bold text-3xl w-[90%]'>
             Tudo o que você precisa por apenas R$199/mês
         </h2>
         
