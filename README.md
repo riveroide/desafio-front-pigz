@@ -1,3 +1,5 @@
+Deploy feito: https://desafio-front-pigz.vercel.app/
+
 ## desafio-front-pigz
 Desafio para a vaga de desenvolvedor front-end na Pigz. 
 
