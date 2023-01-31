@@ -26,7 +26,7 @@ const CardsWithButtons = () => {
             </div>
           </div>
           <div className="justify-center flex mb-4">
-            <button className="text-white  transition-colors duration-300 transform rounded-full hover:bg-gray-500 focus:outline-none focus:ring focus:ring-blue-200 focus:ring-opacity-80 bg-gradient-to-l from-[#FA641E] to-[#FF881F] text-sm font-medium h-12 w-[80%]">
+            <button className="text-white  transition-colors duration-300 transform rounded-full hover:bg-gray-500 focus:outline-none focus:ring focus:ring-blue-200 focus:ring-opacity-80 bg-gradient-to-l from-[#FA641E] to-[#FF881F] text-sm font-medium h-12 w-[80%] shadow-xl shadow-orange-400">
               Vender no Pigz agora
             </button>
           </div>
@@ -56,7 +56,7 @@ const CardsWithButtons = () => {
             </div>
           </div>
           <div className="justify-center flex mb-4">
-            <button className="text-white  transition-colors duration-300 transform rounded-full hover:bg-gray-500 focus:outline-none focus:ring focus:ring-blue-200 focus:ring-opacity-80 bg-gradient-to-l from-[#FA641E] to-[#FF881F] text-sm font-medium h-12 w-[80%]">
+            <button className="text-white  transition-colors duration-300 transform rounded-full hover:bg-gray-500 focus:outline-none focus:ring focus:ring-blue-200 focus:ring-opacity-80 bg-gradient-to-l from-[#FA641E] to-[#FF881F] text-sm font-medium h-12 w-[80%] shadow-xl shadow-orange-400">
               Saiba mais
             </button>
           </div>

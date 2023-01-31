@@ -12,7 +12,7 @@ import SupportTitles from "./components/SupportTitles";
 
 function App() {
   return (
-    <div className="md:w-[25%]">
+    <div className="md:w-[30%]">
       <div>
         <Header />
       </div>
